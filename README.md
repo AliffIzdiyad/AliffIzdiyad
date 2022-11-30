@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **aliffazmi73@gmail.com**
 
-- 📄 Know about my experiences [www.asda.as.my](www.asda.as.my)
+- 📄 Know about my experiences [https://github.com/AliffIzdiyad/Resume.git](https://github.com/AliffIzdiyad/Resume.git)
 
 - ⚡ Fun fact **I learn what I want to learn, I applied what I need to apply**
 
